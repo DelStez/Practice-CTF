@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Nintendo64x8", "Nintendo64x8.pyproj", "{A2B5638A-8CDF-45CB-A992-D64DC234B894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B5638A-8CDF-45CB-A992-D64DC234B894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B5638A-8CDF-45CB-A992-D64DC234B894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C93AD2-F5FA-4D2F-A963-016D49B5314C}
+	EndGlobalSection
+EndGlobal
