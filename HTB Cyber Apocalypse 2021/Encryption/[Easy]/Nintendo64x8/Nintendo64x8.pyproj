@@ -24,6 +24,7 @@
     <Compile Include="Nintendo64x8.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Flag.txt" />
     <Content Include="Nintendo.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
