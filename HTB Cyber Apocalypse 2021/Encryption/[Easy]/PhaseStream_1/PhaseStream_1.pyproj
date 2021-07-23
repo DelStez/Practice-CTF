@@ -2,15 +2,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>a2b5638a-8cdf-45cb-a992-d64dc234b894</ProjectGuid>
+    <ProjectGuid>d35cef7f-edd4-4857-944d-ab3df7c524bc</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Nintendo64x8.py</StartupFile>
+    <StartupFile>PhaseStream_1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Nintendo64x8</Name>
-    <RootNamespace>Nintendo64x8</RootNamespace>
+    <Name>PhaseStream_1</Name>
+    <RootNamespace>PhaseStream_1</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,11 +21,10 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Nintendo64x8.py" />
+    <Compile Include="PhaseStream_1.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Flag.txt" />
-    <Content Include="Nintendo.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
